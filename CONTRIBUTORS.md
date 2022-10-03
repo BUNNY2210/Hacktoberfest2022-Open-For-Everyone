@@ -78,5 +78,5 @@
 
 - <a href="https://github.com/vaibhavx42" target="_blank">Vaibhav Bhardwaj</a>
 
-<a href="https://github.com/BUNNY2210" target="_blank">Tushar Chawla</a>
+- <a href="https://github.com/BUNNY2210" target="_blank">Tushar Chawla</a>
 >>>>>>> c9109630a8745bbd21a13213646655e157d07cbf
